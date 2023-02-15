@@ -1,8 +1,9 @@
 <div id="user-content-toc" align="center">
   <ul>
     <summary><h1 style="display: inline-block;">SebbeJohansson aka 🐉</h1></summary>
-    <p>Developer and Mentor</p>
   </ul>
+  <span><b>Developer and Mentor</b></span><br>
+  <span>storyblok and nuxt fanatic</span>
 </div>
 
 <div align="center">
@@ -37,7 +38,6 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebbejohansson" />
   </picture>
 </a>
-&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
   <picture>
       <source 
@@ -51,9 +51,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=sebbejohansson&show_icons=true&count_private=true" />
   </picture>
 </a>
-<br>
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
   <picture>
       <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sebbejohansson&langs_count=8&layout=compact&theme=dark"
@@ -67,17 +65,20 @@
   </picture>
 </a>
 <br>
+<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+  <img src="https://github-profile-trophy.vercel.app/?username=sebbejohansson&theme=darkhub&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4" />
+</a>
+<br>
 <br>
 </div>
 
 <div align="center">
-<h2 align="center">🎬 media i am consuming 🎵</h2>
+<h2>🎬 media i am consuming 🎵</h2>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sebastianj95&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=3e713d&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <a target="_blank" href="https://trakt.tv/users/redeyeddragon"><img class="index__trakt-image" width="500" height="133" alt="redeyeddragon" src="https://widgets.trakt.tv/users/176286ec5d57f496186c5954408a9ddc/watched/banner@2x.jpg"></a>
 </div>
-
 
 <br>
 <br>
@@ -86,6 +87,8 @@
 
 [zumrudu-anka](https://github.com/zumrudu-anka)<br>
 [HwangTaehyun](https://github.com/HwangTaehyun)<br>
+[theabbie](https://github.com/theabbie)<br>
+[jaywcjlove](https://github.com/jaywcjlove)<br>
 
 </div>
 
@@ -102,4 +105,22 @@
 <h4>
   <a href="https://github.com/sebbejohansson?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+</div>
+<div id="user-content-toc">
+  <ul>
+    <summary><h2 style="display: inline-block;">🗨️ 7 odd ways to reach me 💬</h2></summary>
+  </ul>
+</div>
+<div>
+  <span>(discord is always prefered)</span>
+
+  <ul>
+    <li><a href="https://discord.com/channels/@me/Sebastian#0002/" rel="me">Discord (Sebastian#0002)</a>
+    <li><a href="mailto:hello@sebbejohansson.com" rel="me">Mail</a>
+    <li><a href="https://www.linkedin.com/in/sebbejohansson/" rel="me">Linkedin</a>
+    <li><a href="https://steamcommunity.com/id/redeyeddragon/" rel="me">Steam</a>
+    <li><a href="https://twitter.com/supersebban" rel="me">Twitter</a>
+    <li><a href="https://www.instagram.com/supersebban/" rel="me">Instagram DM</a>
+    <li>Call</li>
+  </ul>
 </div>
