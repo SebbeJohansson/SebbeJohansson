@@ -1,4 +1,4 @@
-![darkmode](https://user-images.githubusercontent.com/5083273/219874035-2bf8d018-cd55-41f9-8d47-24e8de6c247e.png#gh-light-mode-only)
+<img src="https://user-images.githubusercontent.com/5083273/219874035-2bf8d018-cd55-41f9-8d47-24e8de6c247e.png#gh-light-mode-only" height=50/>
 
 <div id="user-content-toc" align="center">
   <ul>
