@@ -1,3 +1,5 @@
+![darkmode](https://user-images.githubusercontent.com/5083273/219874035-2bf8d018-cd55-41f9-8d47-24e8de6c247e.png#gh-light-mode-only)
+
 <div id="user-content-toc" align="center">
   <ul>
     <summary><h1 style="display: inline-block;">SebbeJohansson aka 🐉</h1></summary>
@@ -98,8 +100,10 @@
   <h4>
     Support me
   </h4>
-  <span>⭐ something</span><br>
-  <a href="https://www.buymeacoffee.com/sebbejohansson"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Monster&emoji=🐉&slug=sebbejohansson&button_colour=000000&font_colour=48e704&font_family=Bree&outline_colour=48e704&coffee_colour=48e704" height="40px"/></a>
+  <p>⭐ something</p>
+  <div>
+    <a href="https://www.buymeacoffee.com/sebbejohansson"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Monster&emoji=🐉&slug=sebbejohansson&button_colour=000000&font_colour=48e704&font_family=Bree&outline_colour=48e704&coffee_colour=48e704" height="40px"/></a>
+  </div>
   <br>
 </div>
 <div id="user-content-toc">
