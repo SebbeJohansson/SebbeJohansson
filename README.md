@@ -2,7 +2,7 @@
 
 <div id="user-content-toc" align="center">
   <ul>
-    <summary><h1 style="display: inline-block;">SebbeJohansson aka 🐉</h1></summary>
+    <summary><h1 style="display: inline-block;">🐉 Sebastian "Dragon" Johansson 🐉</h1></summary>
   </ul>
   <span><b>Developer and Mentor</b></span><br>
   <span>storyblok and nuxt fanatic</span>
