@@ -15,6 +15,7 @@
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sebbejohansson&repo=vrtx.ContentSystem&theme=dark)](https://github.com/sebbejohansson/vrtx.ContentSystem)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sebbejohansson&repo=storyblok-nuxt-ultimate-template&theme=dark)](https://github.com/SebbeJohansson/storyblok-nuxt-ultimate-template)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sebbejohansson&repo=storyblok-custom-tiptap-plugin&theme=dark)](https://github.com/SebbeJohansson/storyblok-custom-tiptap-plugin)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sebbejohansson&repo=sst-sdk-nuxt&theme=dark)](https://github.com/SebbeJohansson/sst-sdk-nuxt)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sebbejohansson&repo=Nuxt3-Discord-Auth-Example&theme=dark)](https://github.com/SebbeJohansson/Nuxt3-Discord-Auth-Example)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=storyblok&repo=storyblok-nuxt&theme=dark&show_owner=true)](https://github.com/storyblok/storyblok-nuxt)
