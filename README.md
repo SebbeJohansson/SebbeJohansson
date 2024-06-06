@@ -32,14 +32,14 @@
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
     <picture>
         <source 
-        srcset="https://github-readme-streak-stats.herokuapp.com/?user=sebbejohansson&theme=dark"
+        srcset="https://github-readme-streak-stats-orcin-rho.vercel.app/?user=sebbejohansson&theme=dark"
         media="(prefers-color-scheme: dark)"
         />
         <source
-        srcset="https://github-readme-streak-stats.herokuapp.com/?user=sebbejohansson"
+        srcset="https://github-readme-streak-stats-orcin-rho.vercel.app/?user=sebbejohansson"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebbejohansson" />
+        <img src="https://github-readme-streak-stats-orcin-rho.vercel.app/?user=sebbejohansson" />
     </picture>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
