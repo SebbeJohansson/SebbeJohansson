@@ -5,7 +5,7 @@
     <summary><h1 style="display: inline-block;">🐉 Sebastian "Dragon" Johansson 🐉</h1></summary>
   </ul>
   <span><b>Developer and Mentor</b></span><br>
-  <span>storyblok and nuxt fanatic</span>
+  <span>nuxt fanatic</span>
 </div>
 
 <div align="center">
