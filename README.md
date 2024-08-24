@@ -80,7 +80,7 @@
 <div align="center">
   <h2>🎬 media i am consuming 🎵</h2>
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sebastianj95&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=3e713d&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=sebastianj95&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=3e713d&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
   <a target="_blank" href="https://trakt.tv/users/redeyeddragon"><img class="index__trakt-image" width="500" height="133" alt="redeyeddragon" src="https://widgets.trakt.tv/users/176286ec5d57f496186c5954408a9ddc/watched/banner@2x.jpg"></a>
 </div>
