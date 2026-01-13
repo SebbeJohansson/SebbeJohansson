@@ -17,8 +17,6 @@
   [![Readme Card](https://github-readme-stats-six-murex.vercel.app/api/pin/?username=sebbejohansson&repo=tradera-api-client&theme=dark)](https://github.com/SebbeJohansson/tradera-api-client)
   [![Readme Card](https://github-readme-stats-six-murex.vercel.app/api/pin/?username=sousou63&repo=DarkRP&theme=dark)](https://github.com/sousou63/DarkRP)
   [![Readme Card](https://github-readme-stats-six-murex.vercel.app/api/pin/?username=sebbejohansson&repo=vrtx.ContentSystem&theme=dark)](https://github.com/sebbejohansson/vrtx.ContentSystem)
-  [![Readme Card](https://github-readme-stats-six-murex.vercel.app/api/pin/?username=sebbejohansson&repo=sst-sdk-nuxt&theme=dark)](https://github.com/SebbeJohansson/sst-sdk-nuxt)
-  [![Readme Card](https://github-readme-stats-six-murex.vercel.app/api/pin/?username=sebbejohansson&repo=Nuxt3-Discord-Auth-Example&theme=dark)](https://github.com/SebbeJohansson/Nuxt3-Discord-Auth-Example)
   [![Readme Card](https://github-readme-stats-six-murex.vercel.app/api/pin/?username=sebbejohansson&repo=storyblok-nuxt-ultimate-template&theme=dark)](https://github.com/SebbeJohansson/storyblok-nuxt-ultimate-template)
   [![Readme Card](https://github-readme-stats-six-murex.vercel.app/api/pin/?username=storyblok&repo=storyblok-nuxt&theme=dark&show_owner=true)](https://github.com/storyblok/storyblok-nuxt)
 
