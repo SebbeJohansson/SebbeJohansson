@@ -86,7 +86,7 @@
 <br>
 <br>
 <div align="center">
-  <i>inspired by a bunch of people</i>
+  <i>profile inspired by a bunch of people</i>
 
   [zumrudu-anka](https://github.com/zumrudu-anka)<br>
   [HwangTaehyun](https://github.com/HwangTaehyun)<br>
