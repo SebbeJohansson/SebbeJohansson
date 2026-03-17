@@ -13,12 +13,12 @@
   <h2 align="center">🔓 favorite open source projects 🔓</h2>
   <br>
 
-  [![Readme Card](https://github-readme-stats-six-murex.vercel.app/api/pin/?username=emo-libre&repo=Proxy&theme=dark)](https://github.com/emo-libre/Proxy)
-  [![Readme Card](https://github-readme-stats-six-murex.vercel.app/api/pin/?username=sebbejohansson&repo=tradera-api-client&theme=dark)](https://github.com/SebbeJohansson/tradera-api-client)
-  [![Readme Card](https://github-readme-stats-six-murex.vercel.app/api/pin/?username=sousou63&repo=DarkRP&theme=dark)](https://github.com/sousou63/DarkRP)
-  [![Readme Card](https://github-readme-stats-six-murex.vercel.app/api/pin/?username=sebbejohansson&repo=vrtx.ContentSystem&theme=dark)](https://github.com/sebbejohansson/vrtx.ContentSystem)
-  [![Readme Card](https://github-readme-stats-six-murex.vercel.app/api/pin/?username=sebbejohansson&repo=storyblok-nuxt-ultimate-template&theme=dark)](https://github.com/SebbeJohansson/storyblok-nuxt-ultimate-template)
-  [![Readme Card](https://github-readme-stats-six-murex.vercel.app/api/pin/?username=storyblok&repo=storyblok-nuxt&theme=dark&show_owner=true)](https://github.com/storyblok/storyblok-nuxt)
+  [![Readme Card](https://github-readme-stats-tw9y.vercel.app/api/pin/?username=emo-libre&repo=Proxy&theme=dark)](https://github.com/emo-libre/Proxy)
+  [![Readme Card](https://github-readme-stats-tw9y.vercel.app/api/pin/?username=sebbejohansson&repo=tradera-api-client&theme=dark)](https://github.com/SebbeJohansson/tradera-api-client)
+  [![Readme Card](https://github-readme-stats-tw9y.vercel.app/api/pin/?username=sousou63&repo=DarkRP&theme=dark)](https://github.com/sousou63/DarkRP)
+  [![Readme Card](https://github-readme-stats-tw9y.vercel.app/api/pin/?username=sebbejohansson&repo=vrtx.ContentSystem&theme=dark)](https://github.com/sebbejohansson/vrtx.ContentSystem)
+  [![Readme Card](https://github-readme-stats-tw9y.vercel.app/api/pin/?username=sebbejohansson&repo=storyblok-nuxt-ultimate-template&theme=dark)](https://github.com/SebbeJohansson/storyblok-nuxt-ultimate-template)
+  [![Readme Card](https://github-readme-stats-tw9y.vercel.app/api/pin/?username=storyblok&repo=storyblok-nuxt&theme=dark&show_owner=true)](https://github.com/storyblok/storyblok-nuxt)
 
   <br>
   <br>
@@ -44,27 +44,27 @@
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <picture>
         <source 
-        srcset="https://github-readme-stats-six-murex.vercel.app/api?username=sebbejohansson&show_icons=true&count_private=true&theme=dark"
+        srcset="https://github-readme-stats-tw9y.vercel.app/api?username=sebbejohansson&show_icons=true&count_private=true&theme=dark"
         media="(prefers-color-scheme: dark)"
         />
         <source
-        srcset="https://github-readme-stats-six-murex.vercel.app/api?username=sebbejohansson&show_icons=true&count_private=true"
+        srcset="https://github-readme-stats-tw9y.vercel.app/api?username=sebbejohansson&show_icons=true&count_private=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats-six-murex.vercel.app/api?username=sebbejohansson&show_icons=true&count_private=true" />
+        <img src="https://github-readme-stats-tw9y.vercel.app/api?username=sebbejohansson&show_icons=true&count_private=true" />
     </picture>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <picture>
         <source 
-        srcset="https://github-readme-stats-six-murex.vercel.app/api/top-langs/?username=sebbejohansson&langs_count=8&layout=compact&theme=dark"
+        srcset="https://github-readme-stats-tw9y.vercel.app/api/top-langs/?username=sebbejohansson&langs_count=8&layout=compact&theme=dark"
         media="(prefers-color-scheme: dark)"
         />
         <source
-        srcset="https://github-readme-stats-six-murex.vercel.app/api/top-langs/?username=sebbejohansson&langs_count=8&layout=compact"
+        srcset="https://github-readme-stats-tw9y.vercel.app/api/top-langs/?username=sebbejohansson&langs_count=8&layout=compact"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats-six-murex.vercel.app/api/top-langs/?username=sebbejohansson&langs_count=8&layout=compact" />
+        <img src="https://github-readme-stats-tw9y.vercel.app/api/top-langs/?username=sebbejohansson&langs_count=8&layout=compact" />
     </picture>
   </a>
   <br>
