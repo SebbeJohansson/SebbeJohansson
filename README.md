@@ -129,3 +129,4 @@
     <a href="https://github.com/sebbejohansson?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
   </h4>
 </div>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sebbejohansson.visitor-badge)
