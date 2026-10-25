@@ -10,18 +10,38 @@
 
 <div align="center">
 
-  <h2 align="center">🔓 favorite open source projects 🔓</h2>
+  <h2 align="center">🔓 favorite open source projects that i have worked on 🔓</h2>
   <br>
 
-  [![Readme Card](https://github-readme-stats-tw9y.vercel.app/api/pin/?username=emo-libre&repo=Proxy&theme=dark)](https://github.com/emo-libre/Proxy)
   [![Readme Card](https://github-readme-stats-tw9y.vercel.app/api/pin/?username=sebbejohansson&repo=tradera-api-client&theme=dark)](https://github.com/SebbeJohansson/tradera-api-client)
-  [![Readme Card](https://github-readme-stats-tw9y.vercel.app/api/pin/?username=sousou63&repo=DarkRP&theme=dark)](https://github.com/sousou63/DarkRP)
+  [![Readme Card](https://github-readme-stats-tw9y.vercel.app/api/pin/?username=sebbejohansson&repo=tcgpriser-js&theme=dark)](https://github.com/SebbeJohansson/tcgpriser-js)
+  [![Readme Card](https://github-readme-stats-tw9y.vercel.app/api/pin/?username=sebbejohansson&repo=openui&theme=dark)](https://github.com/SebbeJohansson/openui)
   [![Readme Card](https://github-readme-stats-tw9y.vercel.app/api/pin/?username=sebbejohansson&repo=vrtx.ContentSystem&theme=dark)](https://github.com/sebbejohansson/vrtx.ContentSystem)
-  [![Readme Card](https://github-readme-stats-tw9y.vercel.app/api/pin/?username=sebbejohansson&repo=storyblok-nuxt-ultimate-template&theme=dark)](https://github.com/SebbeJohansson/storyblok-nuxt-ultimate-template)
-  [![Readme Card](https://github-readme-stats-tw9y.vercel.app/api/pin/?username=storyblok&repo=storyblok-nuxt&theme=dark&show_owner=true)](https://github.com/storyblok/storyblok-nuxt)
+  [![Readme Card](https://github-readme-stats-tw9y.vercel.app/api/pin/?username=emo-libre&repo=Proxy&theme=dark&show_owner=true)](https://github.com/emo-libre/Proxy)
+  [![Readme Card](https://github-readme-stats-tw9y.vercel.app/api/pin/?username=sousou63&repo=DarkRP&theme=dark&show_owner=true)](https://github.com/sousou63/DarkRP)
 
+  <h3 align="center">honorable mentions</h3>
+  
+  [pennvass](https://github.com/SebbeJohansson/pennvass) - run your gammar(ly) fixes locally
+  
+  [PackOdds](https://github.com/SebbeJohansson/tcgpriser-packs-demo) - A Pokémon TCG pack-opening simulator built with Nuxt using data from [tcgpriser.se](https://tcgpriser.se/)
+  
+  [3d & ascii rendering tech demo](https://github.com/SebbeJohansson/3d-ascii-rendering-techdemo) - POC for rendering 3d models in the browser and in the terminal
+  
+  [tauri corner snap plugin](https://github.com/SebbeJohansson/tauri-plugin-corner-snap) - Custom handling for snapping [Tauri](https://v2.tauri.app/) windows on edges and in corners
+  
+  [EmoProxy WebUI](https://github.com/emo-libre/WebUI) - Interface for [EmoProxy](https://github.com/emo-libre/Proxy) to monitor traffic
+    
+  [Emo Proxy Docker](https://github.com/emo-libre/emo-proxy-docker) - Simplified setup for [EmoProxy](https://github.com/emo-libre/Proxy) with Docker
+    
+  [AI Usage Tool](https://github.com/SebbeJohansson/ai-usage-tool) - Pulls usage data from claude and github copilot and sends it to discord
+  
+  [Storyblok Nuxt Ultimate Template](https://github.com/SebbeJohansson/storyblok-nuxt-ultimate-template) - My recommended way of using Storyblok with Nuxt
+  
+  [Storyblok Nuxt](https://github.com/storyblok/storyblok-nuxt) - Nuxt Module for talking to Storyblok
   <br>
   <br>
+  
 </div>
 
 <div align="center">
